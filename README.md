@@ -14,10 +14,15 @@ The input JSON file is named **`employee_data.json`** and contains employee reco
 - `salary`: Employee Salary
 
 ## Output Screenshot
-![summary](https://github.com/user-attachments/assets/19270d7a-806a-4e9d-b74f-4e58fd33bb2c)
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/19270d7a-806a-4e9d-b74f-4e58fd33bb2c" alt="summary" width="600">
+</div>
 
-![salary](https://github.com/user-attachments/assets/17fd8970-edb8-44b1-9864-0b7f67ffe207)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/17fd8970-edb8-44b1-9864-0b7f67ffe207" alt="salary" width="600">
+</div>
+
 
 
 ## Prerequisites
