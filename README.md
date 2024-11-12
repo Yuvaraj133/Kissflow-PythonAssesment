@@ -36,7 +36,7 @@ The input JSON file is named **`employee_data.json`** and contains employee reco
 Clone the repository (if applicable) and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/Kissflow-Assesment1-Python.git
+git clone https://github.com/your-username/Kissflow-PythonAssesment.git
 cd Kissflow-PythonAssesment
 python app.py
 
