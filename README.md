@@ -39,14 +39,6 @@ Clone the repository (if applicable) and navigate to the project directory:
 git clone https://github.com/your-username/Kissflow-Assesment1-Python.git
 cd Kissflow-PythonAssesment
 python app.py
-
-## Output Screenshot
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/19270d7a-806a-4e9d-b74f-4e58fd33bb2c" alt="summary" width="600">
-    <p><b>Figure 1:</b> Average salary summary for each department.</p>
-</div>
-
 <div align="center">
     <img src="https://github.com/user-attachments/assets/17fd8970-edb8-44b1-9864-0b7f67ffe207" alt="salary" width="600">
     <p><b>Figure 2:</b> Details of the employee with the highest salary.</p>
