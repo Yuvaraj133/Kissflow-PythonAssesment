@@ -1,0 +1,33 @@
+[
+    {
+    "id": 1,
+    "name": "Aadhil",
+    "department": "HR",
+    "salary": 60000
+    },
+    {
+    "id": 2,
+    "name": "Aaryan",
+    "department": "Engineering",
+    "salary": 75000
+    },
+    {
+    "id": 3,
+    "name": "Navilan",
+    "department": "HR",
+    "salary": 62000
+    },
+    {
+    "id": 4,
+    "name": "Sarvesh",
+    "department": "Sales",
+    "salary": 58000
+    },
+    
+    {
+    "id": 5,
+    "name": "Sabari",
+    "department": "Engineering",
+    "salary": 80000
+    }
+    ]
