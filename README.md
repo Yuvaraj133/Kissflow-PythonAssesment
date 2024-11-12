@@ -1,11 +1,22 @@
-# Kissflow-PythonAssesment
-This project processes employee data from a JSON file and performs the following tasks:
+# Kissflow PythonAssesment
 
-1. Creates a JSON file **`salary_summary.json`** with the average salary for each department.
-2. Identifies the employee with the highest salary and displays their details.
-## Screenshot
-![summary](https://github.com/user-attachments/assets/8192ff2f-5988-4a5c-a8a5-562169b6877b)
-![salary](https://github.com/user-attachments/assets/7fb2787d-f344-4145-b8f7-753f947e75ee)
+## Overview
+This project handles employee data provided in a JSON file and performs specific data transformation tasks:
+
+1. **Average Salary Calculation:** It calculates the average salary for each department and saves it to a new JSON file named `salary_summary.json`.
+2. **Find Highest Salary:** It identifies the employee with the highest salary and prints their details.
+
+## Input Data
+The input JSON file is named **`employee_data.json`** and contains employee records with the following fields:
+- `id`: Employee ID
+- `name`: Employee Name
+- `department`: Department Name
+- `salary`: Employee Salary
+
+## Output Screenshot
+![summary](https://github.com/user-attachments/assets/19270d7a-806a-4e9d-b74f-4e58fd33bb2c)
+
+![salary](https://github.com/user-attachments/assets/17fd8970-edb8-44b1-9864-0b7f67ffe207)
 
 ## Prerequisites
 
@@ -17,12 +28,14 @@ Clone the repository (if applicable) and navigate to the project directory:
 
 ```bash
 git clone https://github.com/your-username/Kissflow-Assesment1-Python.git
-cd Kissflow-Assesment1-Python
+cd Kissflow-PythonAssesment
+python app.py ```
 
-```bash
-python app.py
 
-## Screenshot
-![summary](https://github.com/user-attachments/assets/8192ff2f-5988-4a5c-a8a5-562169b6877b)
-![salary](https://github.com/user-attachments/assets/7fb2787d-f344-4145-b8f7-753f947e75ee)
+## Output Screenshot
+![summary](https://github.com/user-attachments/assets/19270d7a-806a-4e9d-b74f-4e58fd33bb2c)
+
+![salary](https://github.com/user-attachments/assets/17fd8970-edb8-44b1-9864-0b7f67ffe207)
+
+
 
