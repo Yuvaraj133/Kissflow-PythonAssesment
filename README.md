@@ -15,8 +15,9 @@ The input JSON file is named **`employee_data.json`** and contains employee reco
 
 ## Output Screenshot
 ![summary](https://github.com/user-attachments/assets/19270d7a-806a-4e9d-b74f-4e58fd33bb2c)
-
+  Task1:Average Salary Calculation
 ![salary](https://github.com/user-attachments/assets/17fd8970-edb8-44b1-9864-0b7f67ffe207)
+  Task1:Highest Salary
 
 ## Prerequisites
 
@@ -29,13 +30,5 @@ Clone the repository (if applicable) and navigate to the project directory:
 ```bash
 git clone https://github.com/your-username/Kissflow-Assesment1-Python.git
 cd Kissflow-PythonAssesment
-python app.py ```
-
-
-## Output Screenshot
-![summary](https://github.com/user-attachments/assets/19270d7a-806a-4e9d-b74f-4e58fd33bb2c)
-
-![salary](https://github.com/user-attachments/assets/17fd8970-edb8-44b1-9864-0b7f67ffe207)
-
-
+python app.py
 
