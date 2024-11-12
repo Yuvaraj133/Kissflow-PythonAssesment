@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/e9659ef4-d100-4659-9473-37a8629dd280
 
 ## Setup
 
-Clone the repository (if applicable) and navigate to the project directory:
+Clone the repository  and navigate to the project directory:
 
 ```bash
 git clone https://github.com/your-username/Kissflow-PythonAssesment.git
